@@ -1,8 +1,9 @@
 - 👋 Hi, I’m @nitish-cse
-- 👀 I’m interested in web development 
-- 🌱 I’m currently learning  react js 
-- 💞️ I’m looking to collaborate on  web development 
-- 📫 How to reach me ... by the emal or contact no
+- 👀 I’m interested in Backend development  
+- 🌱 I’m currently learning and working on java language 
+- 💞️ I’m looking to collaborate on  backend development with java 
+- 📫 How to reach me ... by the email or contact no
+- 
 
 <!---
 nitish-cse/nitish-cse is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
