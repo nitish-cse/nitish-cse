@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @nitish-cse
-- 👀 I’m interested in Backend development  
-- 🌱 I’m currently learning and working on java language 
-- 💞️ I’m looking to collaborate on  backend development with java 
+- i am learning blockchain and woking on project 
+- 👀 I’m interested in  blockchain technology   
+- 🌱 I have worked on  java language 
+- 💞️ I’m looking to collaborate on  backend development with java , and blockchain development 
 - 📫 How to reach me ... by the email or contact no
 - 
 
