@@ -4,11 +4,10 @@
 - also i learned blockchain from pattric collins and developed a project decentralized drive in solidity programming language(this is my final year project)
 
 - Technical skills 
-- 🌱 language  :- c, java , MySQL
+- 🌱 language  :- c, java , MySQL ,HTML ,CSS
 - Framework : spring , spring mvc
 - Tools :- Netbeans , Eclipse , VScode , Github ,  tomcat , xamp  
 - 💞️  seeking an opportunity in software development as a fresher
-   
 - 📫 How to reach me ... by the email or contact no
 - 
 
